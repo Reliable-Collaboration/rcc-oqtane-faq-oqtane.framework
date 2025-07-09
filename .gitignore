@@ -14,7 +14,7 @@ _ReSharper.Caches
 .DS_Store
 
 Oqtane.Server/appsettings.json
-Oqtane.Server/Data
+
 
 Oqtane.Server/Properties/PublishProfiles/FolderProfile.pubxml
 Oqtane.Server/Content
